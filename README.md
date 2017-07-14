@@ -5,6 +5,8 @@ A growing collection of BigQuery patterns
 
 ### Select the latest row for each type
 
+https://stackoverflow.com/a/45112050/132438
+
 Traditionally we've done
 
     #standardSQL
