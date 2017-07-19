@@ -47,6 +47,11 @@ https://twitter.com/felipehoffa/status/887515878262054913
 
 https://stackoverflow.com/a/45043616/132438
 
+### Partitioning tables
+
+"BigQuery - 6 Years of Order Migration, Table / Query Design"
+
+https://stackoverflow.com/a/45131570/132438
 
 ### Disclaimer
 
