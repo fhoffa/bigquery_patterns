@@ -53,6 +53,13 @@ https://stackoverflow.com/a/45043616/132438
 
 https://stackoverflow.com/a/45131570/132438
 
+
+### Resources
+
+- https://reddit.com/r/bigquery
+- https://stackoverflow.com/questions/tagged/google-bigquery
+- https://twitter.com/felipehoffa
+
 ### Disclaimer
 
 This is not an official Google product (experimental or otherwise), it is just
