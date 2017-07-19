@@ -35,6 +35,17 @@ Working alternative which drops unnecessary rows instead of sorting them all:
     ORDER BY created_at
     LIMIT 100
     
+### Costs
+
+"The BigQuery usage logs also provide us with similar auditability and tracking. We periodically inspect the most expensive 10-20 queries in the past 30 days. These are usually due to un-optimized queries where users neglect to specify a PARTITION. Usually, the fix is as easy as adding a _PARTITIONTIME predicate to a query against a partitioned table."
+
+https://twitter.com/felipehoffa/status/887515878262054913
+
+### Changing schemas
+
+"You'll get the best results in BigQuery when you can put your data in well defined columns, but you will also get great results if you just store JSON objects stored as strings."
+
+https://stackoverflow.com/a/45043616/132438
 
 
 ### Disclaimer
