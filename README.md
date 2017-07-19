@@ -53,6 +53,17 @@ https://stackoverflow.com/a/45043616/132438
 
 https://stackoverflow.com/a/45131570/132438
 
+### Sending data to Google Cloud
+
+![Transfer speeds](http://i.imgur.com/rqYokhf.png)
+
+Petabyte appliance
+
+- https://cloudplatform.googleblog.com/2017/07/introducing-Transfer-Appliance-Sneakernet-for-the-cloud-era.html
+
+S3 transfer
+
+- https://cloud.google.com/storage/transfer/
 
 ### Resources
 
