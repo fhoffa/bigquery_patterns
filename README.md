@@ -53,6 +53,12 @@ https://stackoverflow.com/a/45043616/132438
 
 https://stackoverflow.com/a/45131570/132438
 
+### Unstructured data
+
+Add a column that handles a large string with JSON encoded data - decode in query. See GitHub Archive "payload" field.
+
+
+
 ### Sending data to Google Cloud
 
 ![Transfer speeds](http://i.imgur.com/rqYokhf.png)
